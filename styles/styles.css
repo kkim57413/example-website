@@ -1,0 +1,11 @@
+/* page styling */
+body {
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    width: 840px;
+    font-family: 'Press Start 2P', cursive;
+}
+img {
+    width: 1000px;
+}
